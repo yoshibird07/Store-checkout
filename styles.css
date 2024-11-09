@@ -1,0 +1,113 @@
+.paper{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    width: 700px;
+    height: 800px;
+    margin: 0 auto;
+    box-shadow: 0 0 10px rgb(101, 101, 101);
+}
+
+.Heading{ 
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 10px;
+
+}
+
+.barcode{
+    text-align: left;
+    padding-left: 40px;
+}
+
+.quantity{
+    text-align: left;
+    padding-left: 40px;
+}
+
+.button-cart{
+    background-color: rgb(3, 186, 3);
+    text-align: center;
+    margin-left: 40px;
+    margin-top: 40px;
+    padding: 10px 20px;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+
+.line{
+    width: 620px;
+}
+
+.cart{
+    padding-top: 30px;
+    text-align: center;
+    margin: 0 auto;
+    padding-right: 20px ;
+    
+    
+}
+
+.item-price-quantity{
+    display: flex;
+    justify-content: space-evenly;
+    text-decoration: underline;
+    width: 700px;
+    padding-top: 30px;
+    text-align: center;
+    
+
+}
+
+.button-checkout{
+    background-color: rgb(3, 186, 3);
+    text-align: center; 
+    margin-left: 40px;
+    margin-top: 310px;
+    padding: 10px 20px;
+    border: none;
+    color: white;
+    border-radius: 5px;
+};
+
+.divElement{
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around, space-between;
+
+};
+
+.iElement{
+    display: flex;
+    justify-content: space-evenly;
+    text-decoration: underline;
+    width: 700px;
+    padding-top: 30px;
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid black;
+
+};
+
+.prElement{
+    display: flex;
+    justify-content: space-evenly;
+    text-decoration: underline;
+    width: 700px;
+    padding-top: 30px;
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid black;
+
+};
+
+.QElement{
+    display: flex;
+    justify-content: space-evenly;
+    text-decoration: underline;
+    width: 700px;
+    padding-top: 30px;
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid black;
+};
